@@ -242,5 +242,7 @@ main section.latest_course div.course div span{
     main section.latest_course div.course div{
         margin-bottom: 50px;
     }
-    
+    main section.top_players div.blog>div div img{
+        width: 50%;
+    }
 }
