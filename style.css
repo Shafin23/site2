@@ -221,7 +221,7 @@ main section.latest_course div.course div span{
 @media  screen and (max-width:772px) 
 {
     main{
-        width: 560px;
+        width: 500px;
         margin: 0 auto;
     }
     main section.top_players div.player{
